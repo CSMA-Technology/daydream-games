@@ -31,7 +31,7 @@ const DesktopToolbar = ({ pages }: Props) => (
         textDecoration: 'none',
       }}
     >
-      CSMA
+      Daydream Games
     </Typography>
     <Box sx={{ flexGrow: 1, display: 'flex' }}>
       <List dense disablePadding style={{ display: 'flex', flexDirection: 'row' }}>

@@ -1,4 +1,5 @@
 import { Typography } from '@mui/material';
+import type { HeadFC } from 'gatsby';
 import Layout from '../layouts';
 
 const About = () => (
@@ -10,3 +11,5 @@ const About = () => (
 );
 
 export default About;
+
+export const Head: HeadFC = () => <title>About - Daydream Games</title>;

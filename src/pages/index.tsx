@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <main>
       <Typography variant="h2">
-        CSMA Technology
+        Daydream Games
       </Typography>
       <Typography variant="h6">Technology for all, but mostly turtles.</Typography>
       <p>
@@ -20,4 +20,4 @@ const IndexPage = () => (
 export default IndexPage;
 
 // eslint-disable-next-line react/function-component-definition
-export const Head: HeadFC = () => <title>CSMA Technology</title>;
+export const Head: HeadFC = () => <title>Daydream Games</title>;

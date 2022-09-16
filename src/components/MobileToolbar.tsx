@@ -81,7 +81,7 @@ const MobileToolbar = ({ pages }: Props) => {
           textDecoration: 'none',
         }}
       >
-        CSMA
+        Daydream Games
       </Typography>
       <Box sx={{ flexGrow: 1 }} />
     </Toolbar>

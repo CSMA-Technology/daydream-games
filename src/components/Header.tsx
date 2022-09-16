@@ -9,8 +9,8 @@ import DesktopToolbar from './DesktopToolbar';
 
 const pages = [
   { name: 'About', href: '/about' },
-  { name: 'Services', href: '/services' },
-  { name: 'Projects', href: '/projects' },
+  { name: 'Games', href: '/games' },
+  { name: 'Tutorials', href: '/tutorials' },
 ];
 
 const Header = () => {
